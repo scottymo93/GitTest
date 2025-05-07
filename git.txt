@@ -1,2 +1,3 @@
 Hello, class!
 We're learning Git today.
+another line!
